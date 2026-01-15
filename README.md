@@ -45,16 +45,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/joao-victor-coding">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jVictor011&layout=compact&langs_count=7&theme=radical" />
-  </a>
-</div>
-
----
-
 ## 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joao-victor-coding) – Sempre aberto para novas conexões e oportunidades!
